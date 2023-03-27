@@ -1,6 +1,6 @@
 svg[id^="m"][width][height][viewBox] {
-    max-width: 95%;
-    max-height: 95%;
+    max-width: 50%;
+    max-height: 50%;
 }
 
 div.mermaid {
@@ -13,4 +13,3 @@ div.mermaid {
     max-height: 600px;
     max-width: 100%;
 }
-
