@@ -1,5 +1,5 @@
 svg[id^="m"][width][height][viewBox] {
-    max-width: 50%;
-    max-height: 50%;
+    max-width: 10%;
+    max-height: 10%;
 }
 
