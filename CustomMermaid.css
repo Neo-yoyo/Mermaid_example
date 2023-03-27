@@ -14,13 +14,3 @@ div.mermaid {
     max-width: 100%;
 }
 
-div.mermaid::after {
-    content:'';
-    display:block;
-    width:10px;
-    height:10px;
-    background-color:yellowgreen;
-    position:absolute;
-    right:0;
-    bottom:0;
-}
